@@ -1,0 +1,25 @@
+{
+  "name": "html-reporter",
+  "version": "0.0.1",
+  "description": "a HTML Reporter for Pa11y",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"hallo\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukasOchmann/html-reporter.git"
+  },
+  "keywords": [
+    "html",
+    "reporter",
+    "Pa11y",
+    "html-reporter"
+  ],
+  "author": "Lukas Ochmann (SEITENBAU)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LukasOchmann/html-reporter/issues"
+  },
+  "homepage": "https://github.com/LukasOchmann/html-reporter#readme"
+}
